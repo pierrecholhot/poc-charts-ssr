@@ -1,0 +1,19 @@
+{
+  "name": "onco-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=16.15.0",
+    "npm": ">=8.5.5"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "3.8.0",
+    "chartjs-node-canvas": "4.1.6",
+    "fastify": "4.0.2"
+  }
+}
